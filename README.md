@@ -16,7 +16,7 @@ This is a simple Rust program that converts temperatures between Fahrenheit and 
 3. Navigate to the directory
 
    ```sh
-   cd temperature_converter
+   cd rust_temperature_converter
    ```
 
 4. Run the program using `cargo run`
